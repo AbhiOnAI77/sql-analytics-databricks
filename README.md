@@ -2,7 +2,7 @@
 Repository of SQL projects executed on Databricks, highlighting data exploration, transformation, and analytics workflows. Demonstrates proficiency in writing scalable, optimized SQL queries for enterprise data platforms and real-world business problem solving.
 
 ## Project 1: Product Data Exploration
-This project focuses on exploring and cleaning the `product_page_info` dataset using Databricks SQL. It covers row counts, null checks, duplicate detection, stock analysis, and data cleaning (price corrections, unit conversions). Business insights include revenue estimation by category, top discounts, price-per-gram analysis, and stock availability trends.
+This project focuses on exploring and cleaning the `product_page_info` dataset from a leading quick-commerce company in India using Databricks SQL. It covers row counts, null checks, duplicate detection, stock analysis, and data cleaning (price corrections, unit conversions). Business insights include revenue estimation by category, top discounts, price-per-gram analysis, and stock availability trends.
 
 - **Rows:** 3,732  
 - **Unique Categories:** 14  
